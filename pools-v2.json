@@ -2139,5 +2139,13 @@
       "Usury Is Evil"
     ],
     "link": "https://exemple.com"
+  },
+  {
+    "id": 205,
+    "name": "DonSATS",
+    "addresses": [],
+    "tags": [
+      "DonSATS"
+    ],
+    "link": "https://exemple"
   }
-]
